@@ -1,7 +1,6 @@
-###################################
+########################
 OPERATION EXERCISES 
-###################################
-
+########################
 
 #1. Float division operations
 print(5/2)
@@ -12,7 +11,7 @@ print(5.0/2.0)
 same answer for both because / will always return a float 
 to recieve a number in int form you need to use //
 
-##################################################################
+#######################################
 
 
 #2. Modulo operations
@@ -55,7 +54,7 @@ print(3**3)
  rather than multiplying using *, operations using **
   calculates (left number) to the power of (right number)
 
-##################################################################
+##############################################
 
 
 #4. Order of Operations
@@ -66,9 +65,9 @@ Yes, python does follow order of operations
   2*5 = 10, 10/4 = 2.5, 2.5+3+4 = 9.5 
 
 
-######################################################
+###########################
 VARIABLE EXERCISES
-######################################################
+###########################
 
 #2. all variables are listed in Variable Editor as labelled 
 
@@ -88,9 +87,9 @@ NOTE: if letterX were assigned letter3 again, it would then print as 'z'
 Python assigns variables in corresponding space in memory banks - when letterX was assigned to the same string value as letter3, it stopped connecting to 'a' and now linked to 's';
 However, when letter3 changed, letterX remained linked to 's' - variables change only when specifically assigned to do so 
 
-#######################################################
+#########################
 BOOLEAN EXERCISES
-#######################################################
+#########################
 
 #1. 
 1 and 1.0 are equivalent, regardless of format - python returns True
@@ -106,9 +105,9 @@ Yes, 5 and (3+2) are equivalent - their numerical values are identical once 3+2 
 5 == (3+2) returns True;
 5 != 1 returns True 
 
-#####################################
+######################
 ARRAY EXERCISES
-#####################################
+######################
 
 #1. The array is printed spaced apart (separated by '.') and ordered as was input
 
