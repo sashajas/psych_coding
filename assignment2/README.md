@@ -11,7 +11,7 @@ print(5.0/2.0)
 same answer for both because / will always return a float 
 to recieve a number in int form you need to use //
 
-#######################################
+##################################################################
 
 
 #2. Modulo operations
@@ -54,7 +54,7 @@ print(3**3)
  rather than multiplying using *, operations using **
   calculates (left number) to the power of (right number)
 
-##############################################
+##################################################################
 
 
 #4. Order of Operations
