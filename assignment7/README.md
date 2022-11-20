@@ -2,11 +2,17 @@ Note about files:
 
 - Wait exercises: full experiment was not run - only small section of pseudocode from question 
 
+- File: Assignment 7 - Wait Exercises Final.py 
+
 - Clock exercises: 
        - 1,2,3. Only 2 simplified trials were conducted for ease of running code repeatedly - this was designed to test core.wait, clock + while loops, and countdown timer
       -  4. Contains full experiment using clock + while loops - question asked for a 'clock timer' since this was ambiguous as to which method, I used the method I preferred. 
 
+- Files: Assignment 7 Clock Exercises Q1 Final.py, '' Q2.py, ''Q3.py, '' Q4.py 
+
 - Frame-based timing exercises: I uploaded a cleaned up version of my code without clock-based timing comments for simplicity 
+
+- Files: Assignment 7 frame based exercises - cleaned up.py 
        
 
 Clock Exercises 
