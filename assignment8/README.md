@@ -17,5 +17,12 @@ cleared between trials.
 b) If you unindent the 'if keys:' line, it will only record the first response of the very last trial run. 
 For you to access first responses for all trials, 'if keys:' needs to be within the trial loop. 
 
-Psychtoolbox Keypress Exercises 
-1. 
+Recording data exercises 
+1. I decided to create dictionary entries within the trial loops so I could mark which trial was being run in the dict during the loops. 
+
+2. I was not using tiral indexing to create my dict, so I'm not sure what I should have done for this step 
+
+Save CSV 
+1. I used DictWriter to create a spreadsheet with my key value pairs. 
+
+I was not able to save the files in JSON format. 
